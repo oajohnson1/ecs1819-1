@@ -1,8 +1,12 @@
-body{
-    background-color:#efe21;
-    text-align:center
+.jumbotron-fluid{
+   background-color:#f7f7f8;
+    text-align: center;
+    font-size:300%;
 }
-h1 {color:Black;
-    text-shadow:1px 4px #395645;}
-    
- h2{font-size:125%; }
+
+.card{
+    background-color:white;
+    height:350px;
+    width:350px;
+    align-items:center;
+}
