@@ -1,40 +1,51 @@
-.card{
-    align-items:center;
-    width:400px;
-    height:300;
-     
+.boxed {
+  border: 10px solid purple ;
 }
 
-.body {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 150px;
-}
-
-.topnav {
-  background-color: #785;
-  overflow: hidden;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #000000;
+.jumbotron{
+  font-family: monospace;
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+  font-size: 40px;
+  background-color: white;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+.boxed{
+  background-color: white;
+  font-family: monospace;
+  font-size:15px;
+  text-align: center;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+body {
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/43116295274565139/98311AF41D582C7D6271ED94EBC5F7CA30EBCE5A/");
+}
+
+.img{
+  width:300px;
+  height:350px;
+}.boxed {
+  border: 10px solid purple ;
+}
+
+.jumbotron{
+  font-family: monospace;
+  text-align: center;
+  font-size: 30px;
+  background-color: white;
+}
+
+.boxed{
+  background-color: white;
+  font-family: monospace;
+  font-size:15px;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/43116295274565139/98311AF41D582C7D6271ED94EBC5F7CA30EBCE5A/");
+}
+
+.img{
+  width:300px;
+  height:350px;
 }

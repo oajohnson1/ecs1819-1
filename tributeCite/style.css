@@ -1,6 +1,12 @@
 .carousel img {margin-left:auto;
 margin-right:auto;}
 
-.jumbotron 
-{background-color:purple;
+.jumbotron{
+    background-color:purple;
+    text-align: center;
+    
+}
+
+.button{
+    background-color: white;
 }

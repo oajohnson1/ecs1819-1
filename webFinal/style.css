@@ -2,7 +2,7 @@
    background-color:#f7f7f8;
     text-align: center;
     font-size:300%;
-    
+    font-family:monospace;
 }
 
 .card{
@@ -11,3 +11,6 @@
     width:350px;
     align-items:center;
 }
+
+.navbar {
+    font-family: monospace;
