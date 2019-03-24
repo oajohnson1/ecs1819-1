@@ -3,15 +3,16 @@
 }
 
 .jumbotron{
-  font-family: monospace;
+  font-family: sans-serif:
   text-align: center;
   font-size: 40px;
   background-color: white;
+  text-align: center;
 }
 
 .boxed{
   background-color: white;
-  font-family: monospace;
+  font-family: sans-serif;
   font-size:15px;
   text-align: center;
 }
@@ -27,25 +28,39 @@ body {
   border: 10px solid purple ;
 }
 
-.jumbotron{
-  font-family: monospace;
-  text-align: center;
-  font-size: 30px;
-  background-color: white;
-}
+
 
 .boxed{
   background-color: white;
-  font-family: monospace;
+  font-family: sans-serif;
   font-size:15px;
   text-align: center;
 }
 
 body {
   background-image: url("https://steamuserimages-a.akamaihd.net/ugc/43116295274565139/98311AF41D582C7D6271ED94EBC5F7CA30EBCE5A/");
+  
 }
 
 .img{
   width:300px;
   height:350px;
+}
+h2{
+  font-family:sans-serif;
+}
+
+.navbar{
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+
+.card-body{
+  font-family: monospace;
+  font-size: 30px;
+}
+
+.jumbotron-fluid{
+  font-family: 20px;
 }

@@ -4,9 +4,34 @@ margin-right:auto;}
 .jumbotron{
     background-color:purple;
     text-align: center;
+    font-size: 35px;
+    font-family: inherit;
     
 }
 
 .button{
     background-color: white;
+}
+
+.btn{
+    background-color: purple;
+    font-family: inherit;
+}
+
+body{
+background-color:#e5e4ff;
+}
+
+.navbar{ 
+    font-family: inherit;
+}
+
+.jumbotron-fluid{
+    background-color:purple;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+h2{ 
+    font-size:20px;
 }
